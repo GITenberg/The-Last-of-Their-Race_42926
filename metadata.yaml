@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4770
     wikipedia: http://www.slainte.org.uk/scotauth/swanadsw.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42926#The-Last-of-Their-Race
 gutenberg_issued: '2013-06-12'
 gutenberg_type: Text
 identifiers:
